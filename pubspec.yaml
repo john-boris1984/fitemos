@@ -1,0 +1,89 @@
+name: fitemos
+description: Demonstrates how to use the flutter_local_notifications plugin.
+publish_to: none
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+  
+  google_fonts: ^1.1.0
+  country_pickers: ^1.3.0
+  url_launcher: ^5.5.0    
+  localstorage: ^3.0.2+5
+  swipedetector: ^1.2.0  
+  bezier_chart: ^1.0.17
+  image_picker: 0.6.7+12 #^0.6.7+7
+  image_cropper: ^1.3.1
+  font_awesome_flutter: ^8.8.1
+  flutter_html: ^1.0.0
+  rate_my_app: ^0.7.2
+  open_file: ^3.0.1
+  flutter_auth_buttons: ^0.10.0
+  flutter_rating_bar: ^3.0.1+1
+  group_radio_button: ^1.0.1
+  flutter_spinkit: ^4.1.2+1
+  slider_button: ^0.6.0
+  social_share: ^2.0.5
+  social_share_plugin: ^0.3.1+1
+
+  cupertino_icons: ^0.1.3
+  device_info: ^0.4.2+4
+  http: ^0.12.0+4
+  path_provider: ^1.6.16
+  #shared_preferences: ^0.5.7
+  shared_preferences:
+  rxdart: ^0.24.0
+  flutter_local_notifications: ^3.0.0
+  google_sign_in: ^4.5.3
+  firebase_auth: ^0.18.1+2
+  flutter_webview_plugin: ^0.3.11  
+  assets_audio_player: ^2.0.12
+  percent_indicator: ^2.1.8
+  #flutter_svg: ^0.19.1
+  camera:
+  #page_transition: ^1.1.7+2
+  intl: ^0.16.1  
+
+dev_dependencies:
+  flutter_driver:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  e2e: ^0.4.3+1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - icons/
+
+    - assets/images/logo.png
+    - assets/images/app_name.png
+    - assets/images/serdar.jpg
+    - assets/images/img.jpg
+    
+    - assets/sounds/long-beep-1s.mp3
+    - assets/sounds/long-beep-1s.wav
+    - assets/sounds/short-beep-1s.mp3
+    - assets/sounds/short-beep-1s.wav
+    - assets/sounds/short-beep-1s1.mp3
+    - assets/sounds/short-beep-1s2.mp3
+    - assets/sounds/short-beep-1s3.mp3
+    - assets/sounds/short-beep-1s4.mp3
+
+    - assets/sounds/short-beep-1s1.wav
+    - assets/sounds/short-beep-1s2.wav
+    - assets/sounds/short-beep-1s3.wav
+
+    - assets/svgs/heartbeat.svg
+    - assets/svgs/trophy-alt.svg
+    - assets/svgs/browser.svg
+    - assets/svgs/shopping-basket.svg
+    - assets/svgs/user-alt.svg
+    - assets/svgs/window-close.svg
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"  #sdk: ">=2.6.0 <3.0.0"
+  flutter: ">=1.12.13+hotfix.5"

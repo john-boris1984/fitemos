@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "712319412932",
+    "firebase_url": "https://fitemos-f2ff0.firebaseio.com",
+    "project_id": "fitemos-f2ff0",
+    "storage_bucket": "fitemos-f2ff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712319412932:android:2d68f2940e170044b43791",
+        "android_client_info": {
+          "package_name": "com.dexterous.fitemos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712319412932-ari4jq1nt9472utf51a1jrit6glgkd08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dexterous.fitemos",
+            "certificate_hash": "dc3cb777cdd12f178af47b16540531e5453f9ab8"
+          }
+        },
+        {
+          "client_id": "712319412932-ptj91lvq8aj15f7h2touorua7qcpj5o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzF4r049tdAlEr8MN71pgPjMRevUrj72g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712319412932-ptj91lvq8aj15f7h2touorua7qcpj5o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712319412932-2hch5gdj1dt5ulab8s5ai6o3ldfrrcsu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.signinapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712319412932:android:56269e5c46c82833b43791",
+        "android_client_info": {
+          "package_name": "com.fitemos.fitemos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712319412932-ptj91lvq8aj15f7h2touorua7qcpj5o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzF4r049tdAlEr8MN71pgPjMRevUrj72g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712319412932-ptj91lvq8aj15f7h2touorua7qcpj5o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712319412932-2hch5gdj1dt5ulab8s5ai6o3ldfrrcsu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.signinapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
